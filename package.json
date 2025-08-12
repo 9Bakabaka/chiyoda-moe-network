@@ -1,0 +1,26 @@
+{
+  "name": "chiyoda-moe-network",
+  "version": "1.0.0",
+  "description": "Chiyoda Moe Network's WebSite, Based on vitepress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev .",
+    "docs:build": "vitepress build .",
+    "docs:preview": "vitepress preview ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9Bakabaka/chiyoda-moe-network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9Bakabaka/chiyoda-moe-network/issues"
+  },
+  "homepage": "https://github.com/9Bakabaka/chiyoda-moe-network#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
